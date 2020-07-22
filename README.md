@@ -6,7 +6,7 @@ tem o objetivo de  acelerar todos os audios do WhatsApp</p>
 <ul>
   <li>Primeiro é necessário clonar o Repositório na sua máquina</li>
   <li>É necessário inspecionar o elemento do  Header do seu WhatsApp Web que  vai  variar de Broser para Browser,e  alterar o elemento do querySelector()
-  passando a classe específica do  header .
+  passando a classe específica do header, isso no arquivo content.js .
   </li>
   
   <li>Depois adicione a pasta de arquivivos as extenssões do Google acessando a esse  endereço  chrome://extensions/ </li>
